@@ -1,4 +1,4 @@
-package bankingKata.tests;
+package app.netlify.clementgombauld.bankingKata.tests;
 
 public class Spy {
     private String value;

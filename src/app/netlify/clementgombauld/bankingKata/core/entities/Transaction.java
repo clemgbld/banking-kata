@@ -1,7 +1,7 @@
-package bankingKata.core.entities;
+package app.netlify.clementgombauld.bankingKata.core.entities;
 
 
-import bankingKata.core.dateProvider.IDateProvider;
+import app.netlify.clementgombauld.bankingKata.core.dateProvider.IDateProvider;
 
 import java.text.SimpleDateFormat;
 

@@ -1,7 +1,7 @@
-package bankingKata.adapter.logger;
+package app.netlify.clementgombauld.bankingKata.adapter.logger;
 
-import  bankingKata.core.logger.ILogger;
-import  bankingKata.tests.Spy;
+import  app.netlify.clementgombauld.bankingKata.core.logger.ILogger;
+import  app.netlify.clementgombauld.bankingKata.tests.Spy;
 
 public class InMemoryLogger implements ILogger {
     private final Spy spy;

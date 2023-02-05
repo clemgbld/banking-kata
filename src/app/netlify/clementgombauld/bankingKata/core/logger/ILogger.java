@@ -1,4 +1,4 @@
-package bankingKata.core.logger;
+package app.netlify.clementgombauld.bankingKata.core.logger;
 
 public interface ILogger  {
 

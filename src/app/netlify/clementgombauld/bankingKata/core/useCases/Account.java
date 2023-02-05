@@ -1,8 +1,8 @@
-package bankingKata.core.useCases;
+package app.netlify.clementgombauld.bankingKata.core.useCases;
 
-import bankingKata.core.dateProvider.IDateProvider;
-import bankingKata.core.entities.Transaction;
-import bankingKata.core.logger.ILogger;
+import app.netlify.clementgombauld.bankingKata.core.dateProvider.IDateProvider;
+import app.netlify.clementgombauld.bankingKata.core.entities.Transaction;
+import app.netlify.clementgombauld.bankingKata.core.logger.ILogger;
 
 import java.util.ArrayList;
 import java.util.List;

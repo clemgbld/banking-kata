@@ -1,6 +1,6 @@
-package bankingKata.adapter.dateProvider;
+package app.netlify.clementgombauld.bankingKata.adapter.dateProvider;
 
-import bankingKata.core.dateProvider.IDateProvider;
+import app.netlify.clementgombauld.bankingKata.core.dateProvider.IDateProvider;
 
 import java.util.Date;
 

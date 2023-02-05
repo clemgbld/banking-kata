@@ -1,10 +1,10 @@
-package bankingKata.tests;
+package app.netlify.clementgombauld.bankingKata.tests;
 
-import bankingKata.adapter.dateProvider.InMemoryIDateProvider;
-import bankingKata.adapter.logger.InMemoryLogger;
-import bankingKata.core.dateProvider.IDateProvider;
-import bankingKata.core.logger.ILogger;
-import bankingKata.core.useCases.Account;
+import app.netlify.clementgombauld.bankingKata.adapter.dateProvider.InMemoryIDateProvider;
+import app.netlify.clementgombauld.bankingKata.adapter.logger.InMemoryLogger;
+import app.netlify.clementgombauld.bankingKata.core.dateProvider.IDateProvider;
+import app.netlify.clementgombauld.bankingKata.core.logger.ILogger;
+import app.netlify.clementgombauld.bankingKata.core.useCases.Account;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;

@@ -1,6 +1,6 @@
-package bankingKata.adapter.logger;
+package app.netlify.clementgombauld.bankingKata.adapter.logger;
 
-import bankingKata.core.logger.ILogger;
+import app.netlify.clementgombauld.bankingKata.core.logger.ILogger;
 
 public class Logger implements ILogger {
     public void log(String dateAmountBalance){
